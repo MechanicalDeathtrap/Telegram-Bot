@@ -1,0 +1,30 @@
+# Commands
+
+- /start
+  - Print welcome message 
+  - Show register button
+  
+- /help - Shows the available commands
+
+- /show - Show event
+  - List of events
+    - description
+    - where
+    - when
+    - how much
+    - points
+    - link button to apply
+
+- /new - Create new event (admins only)
+  - description
+  - where
+  - when
+  - how much
+  - points
+
+- /resgiter 
+  - Asks user to input his data
+    - User ID (parsed from the user object)
+    - ФИО
+    - Group number
+    - Telergam link
